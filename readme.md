@@ -10,6 +10,7 @@ iOS APP： [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id9327471
 MAC APP：[ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases)  
 其它跨平台分支：[avege](https://github.com/avege/avege), [electron-ssr](https://github.com/erguotou520/electron-ssr)  
 Docker: [https://hub.docker.com/r/breakwa11/shadowsocksr/](https://hub.docker.com/r/breakwa11/shadowsocksr/)
+
 服务端配置教程：[单用户教程](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Server-Setup) [数据库多用户教程](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Server-Setup(manyuser-with-mysql))  
 [json版多用户教程](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/Server-Setup(manyuser-with-mudbjson))（仅一台服务器适用）
 
